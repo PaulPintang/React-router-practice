@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+header {
+  height: 80px;
+  background-color: teal;
+}
+.flex {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 300px;
+}
+li {
+  list-style: none;
+}
+a {
+  color: black;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+h1 {
+  text-align: center;
+  font-size: 3rem;
+}
